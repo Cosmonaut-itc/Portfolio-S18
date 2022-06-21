@@ -25,3 +25,12 @@
     
     Link del repositorio: https://github.com/Cosmonaut-itc/UniendoManos
 
+### 3. Traffic Model
+    Este es un proyecto que simula una intersección de una ciudad con agentes.
+    
+    Tecnologías usadas:
+    1. Unity
+    3. C#
+    2. Python
+        - Agent.py
+        - Jupyter Notebook
