@@ -36,3 +36,13 @@
         - Jupyter Notebook
     
     Link del repositorio: https://github.com/Cosmonaut-itc/TrafficModel
+    
+### 4. COVID Checkpoint
+    Este es un proyecto realizado para un Hackathon organizado por Interns GDL en el que participaron 50 personas, este fue el ganador del 3er lugar.
+    Es un juego parecido a Papers, Please en el que tienes que hacer la función de un filtro sanitario
+    
+    Tecnologías usadas:
+    1. Python
+    
+    Link del repositorio: https://github.com/Cosmonaut-itc/CovidCheckPoint
+    
