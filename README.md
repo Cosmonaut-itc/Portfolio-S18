@@ -46,3 +46,13 @@
     
     Link del repositorio: https://github.com/Cosmonaut-itc/CovidCheckPoint
     
+### 5. Rutas MDR
+    Este es un proyecto personal que tenía como objetivo crear una aplicación de escritorio para poder realizar rutas de repartidores para una tienda en 
+    linea.
+    
+    Tecnologías usadas:
+    1. Python
+    2. Google Maps API
+    
+    Link del repositorio: https://github.com/Cosmonaut-itc/Rutas-MDR
+    
